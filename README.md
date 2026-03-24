@@ -1,51 +1,55 @@
-# ai-final-year-projects
-AI Final Year Projects for Engineering Students with Source Code, Machine Learning Models, Deep Learning and Documentation
-
 # 🤖 AI Final Year Projects for Engineering Students
 
-This repository contains **Artificial Intelligence and Machine Learning final year project ideas with source code and documentation**.
-
-🌐 Website  
-https://collegeprojectexpert.in  
+Professional collection of **Artificial Intelligence & Machine Learning final year projects** with source code, documentation, PPT and implementation guidance.
 
 ---
 
 ## 🔎 Explore AI Projects
 
-https://collegeprojectexpert.in/search_projects?query=artificial+intelligence&search_type=domain
+🌐 https://collegeprojectexpert.in/search_projects?query=artificial+intelligence&search_type=domain  
 
 ---
 
-## 📌 Popular AI Projects
+## 💡 Project Domains
 
-- Face Recognition Attendance System  
-- AI Chatbot for Student Support  
-- Fake News Detection using NLP  
-- Smart Traffic Management System  
-- AI Resume Screening System  
-
----
-
-## 💡 Technologies Used
-
-- Python  
+- Artificial Intelligence  
 - Machine Learning  
 - Deep Learning  
-- OpenCV  
-- TensorFlow  
-- NLP  
+- Computer Vision  
+- NLP (Natural Language Processing)  
+
+---
+
+## 📌 Popular AI Project Ideas
+
+- Face Recognition Attendance System  
+- Fake News Detection System  
+- AI Chatbot for Students  
+- Smart Traffic Management  
+- Resume Screening System  
+
+---
+
+## 💻 Technologies
+
+Python • TensorFlow • OpenCV • NLP • Deep Learning  
+
+---
+
+## 📚 Blog & Tutorials
+
+https://collegeprojectexpert.in/blogs  
 
 ---
 
 ## 📞 Contact
 
 💬 WhatsApp  
-https://wa.me/919420597784?text=Hi%20I%20need%20help%20with%20AI%20project  
+https://wa.me/919420597784  
 
 📧 Email  
 info.collegeprojectexpert@gmail.com  
 
 ---
 
-⭐ Visit for complete projects:  
-https://collegeprojectexpert.in
+🌐 Visit: https://collegeprojectexpert.in
